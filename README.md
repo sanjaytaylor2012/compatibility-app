@@ -15,7 +15,7 @@ The user enters their zodiac sign and their partners zodiac sign. Then, the corr
 Example images:
 
 
-<img src="./src/assets/main.png">
+<img src="./src/assets/main2.png">
 
 
 <img src="./src/assets/about.png">
