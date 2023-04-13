@@ -6,9 +6,10 @@ export function About() {
     <div
       style={{
         backgroundColor: "#00527e",
-        height: "125%",
+        height: "110%",
         width: "100%",
         position: "absolute",
+        textAlign: "center",
       }}
     >
       <h1
@@ -17,7 +18,7 @@ export function About() {
           flexDirection: "column",
           textAlign: "center",
           margin: "0 auto",
-          width: "400px",
+          width: "80vw",
           marginTop: "30px",
           marginBottom: "30px",
           flexWrap: "wrap",
@@ -31,12 +32,12 @@ export function About() {
           display: "flex",
           flexDirection: "column",
           textAlign: "center",
-          margin: "auto",
-          width: "400px",
+          margin: " 0 auto",
+          width: "80vw",
           marginTop: "50px",
           flexWrap: "wrap",
           color: "white",
-          justifyContent: "flexStart",
+          justifyContent: "center",
         }}
       >
         <p>
@@ -47,7 +48,12 @@ export function About() {
           that you and your significant other begin your new life on the right
           foot.
         </p>
-        <img src={require("./assets/bad_code.png")} alt="pic" />
+        <img
+          marginLeft="10%"
+          width="80%"
+          src={require("./assets/bad_code.png")}
+          alt="pic"
+        />
         <p style={{ marginTop: "20px" }}>
           With innovative algorithms such as the isNotEquals algorithm shown
           above, we can effortlessly provide insightful information about you
