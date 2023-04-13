@@ -23,6 +23,8 @@ Example images:
 
 <img src="./src/assets/about_bottom.png">
 
+(this is a joke by the way)
+
 ## Available Scripts
 
 In the project directory, you can run:
