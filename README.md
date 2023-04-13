@@ -12,6 +12,9 @@ With 40% of Gen-Z believing in astrology, zodiac sign compatibility it vital. Ho
 ## Concept
 The user enters their zodiac sign and their partners zodiac sign. Then, the corresponding compatibility score and description is found and shown to the user. As stated above, all compatibility ratings are ensured to be 90% or above, so that users will know that they will be able to have a satisfying relationship.
 
+## For Full Transparancy
+This app was created as a satirical comment on the psuedoscience of Zodiac Sign Compatibility that many believe in. It is meant to disprove supposed "comptibility" that is solely based on date and time of birth by showing every zodiac sign as compatible.
+
 Example images:
 
 
@@ -23,7 +26,6 @@ Example images:
 
 <img src="./src/assets/about_bottom.png">
 
-(this is a joke by the way)
 
 ## Available Scripts
 
