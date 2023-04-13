@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Astrologer
 An app to made to ensure compatibility between you and your significant other!
 
+Access the site at:
+https://compatibility-app.vercel.app/
+
 
 ## Inspiration
 With 40% of Gen-Z believing in astrology, zodiac sign compatibility it vital. However, many online compatibility testers can sometimes have compatibility scores less than 90%, which is not ideal. This is why I created Astrologer.
