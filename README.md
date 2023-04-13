@@ -5,12 +5,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Astrologer
 An app to made to ensure compatibility between you and your significant other!
 
+Access the site at:
+https://compatibility-app.vercel.app/
+Note: The site is not optimized for mobile yet.
+
 
 ## Inspiration
 With 40% of Gen-Z believing in astrology, zodiac sign compatibility it vital. However, many online compatibility testers can sometimes have compatibility scores less than 90%, which is not ideal. This is why I created Astrologer.
 
 ## Concept
 The user enters their zodiac sign and their partners zodiac sign. Then, the corresponding compatibility score and description is found and shown to the user. As stated above, all compatibility ratings are ensured to be 90% or above, so that users will know that they will be able to have a satisfying relationship.
+
+## For Full Transparancy
+This is a simple app created as a satirical comment on the psuedoscience of astrology. It is meant to disprove supposed "compatibility" that is solely based on date and time of birth by showing every zodiac sign as compatible.
 
 Example images:
 
@@ -22,6 +29,7 @@ Example images:
 
 
 <img src="./src/assets/about_bottom.png">
+
 
 ## Available Scripts
 
