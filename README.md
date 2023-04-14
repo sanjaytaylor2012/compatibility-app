@@ -7,7 +7,6 @@ An app to made to ensure compatibility between you and your significant other!
 
 Access the site at:
 https://compatibility-app.vercel.app/
-Note: The site is not optimized for mobile yet.
 
 
 ## Inspiration
